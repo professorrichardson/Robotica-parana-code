@@ -1,18 +1,22 @@
+
+
 # SENSOR DE CHUVA
 Lista de Materiais
- • 01 Placa Arduino Uno R3; 
- • 01 Placa Protoboard; 
- • 01 Cabo USB; 
- • 01 Módulo Sensor de Chuva; 
- • 13 Jumpers Macho-Macho;
-  • 03 LEDs verde 5mm; 
-  • 03 LEDs vermelho 5mm; 
-  • 03 LEDs amarelo 5mm; 
-  • 05 Jumpers Fêmea-Fêmea; 
-  • 01 Copo com água; 
-  • 01 Conta-gotas; 
-  • 01 Notebook; 
-  • Software Arduino IDE.
+
+ - 01 Placa Arduino Uno R3;
+ - 01 Placa Protoboard;
+ - 01 Cabo USB;
+ - 01 Módulo Sensor de Chuva;
+ - 13 Jumpers Macho-Macho;
+ - 03 LEDs verde 5mm;
+ - 03 LEDs vermelho 5mm;
+ - 03    LEDs amarelo 5mm;
+ - 05 Jumpers Fêmea-Fêmea;
+ - 01 Copo com  água;
+ - 01 Conta-gotas;
+ - 01 Notebook;
+ - Software Arduino IDE.
+
 ![Image](https://github.com/user-attachments/assets/18555bb3-8d90-48f3-834c-9ee9b667312f)
 
 ```c
@@ -92,4 +96,5 @@ void leds(boolean LVd1, boolean LVd2, boolean LVd3, boolean LAm1, boolean LAm2, 
 ```
 **Professor: Richardson Schawarski Cruz**
 
-https://aluno.escoladigital.pr.gov.br/sites/alunos/arquivos_restritos/files/documento/2023-04/aula11_sensor_de_chuva_m2_versao2.pdf
+[Modelo 3D](https://sketchfab.com/3d-models/aula-11-sensor-de-chuva-2b1e7014615d4a9fbef0f42f9a15efb2)
+[PDF da aula](https://aluno.escoladigital.pr.gov.br/sites/alunos/arquivos_restritos/files/documento/2023-04/aula11_sensor_de_chuva_m2_versao2.pdf)
