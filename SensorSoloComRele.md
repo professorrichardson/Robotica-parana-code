@@ -1,3 +1,21 @@
+# SENSOR DE CHUVA
+Lista de Materiais
+- 01 Placa Protoboard;
+- 01 Placa Arduino Uno R3;
+- 01 Cabo USB;
+- 01 Módulo Sensor de Umidade do Solo Higrômetro;
+- 01 Motor DC;
+- 01 Módulo Relé 5V;
+- 01 Bateria de 9V;
+- 01 Clipe para bateria;
+- 05 Jumpers Fêmea-Fêmea;
+- 05 Jumpers Macho-Macho;
+- 50 cm Fio Paralelo de 0,5mm;
+- 01 Recipiente (copo descartável) com água;
+- 01 Recipiente (copo descartável) com terra seca;
+- 01 Notebook;
+- Software Arduino IDE.
+
 ```c
 /* Código de Funcionamento para Sistema de Monitoramento e
 Irrigação com Arduino */
