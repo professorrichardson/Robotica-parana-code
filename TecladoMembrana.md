@@ -10,7 +10,11 @@ Lista de Materiais
 - 08 Jumpers Macho-Macho;
 - 01 Notebook;
 - Software Arduino IDE.
-- 
+
+![Image](https://private-user-images.githubusercontent.com/125823124/453244785-c7c501da-f872-4829-9bf4-9cd2aec28441.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk1MTg0MTYsIm5iZiI6MTc0OTUxODExNiwicGF0aCI6Ii8xMjU4MjMxMjQvNDUzMjQ0Nzg1LWM3YzUwMWRhLWY4NzItNDgyOS05YmY0LTljZDJhZWMyODQ0MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYxMFQwMTE1MTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05OTViYzJhZTgwYWQzN2IyYjNlYTFmY2FkODM5ZWMyZWIzYjY3ZDliOWQ2MzBiZTBkMTUwN2UyYTMxOGZhODYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.hhy9jMXqJ-EMAmNzRR9A5VOVyh6iaAmF72cAr9HckY4)
+
+
+### Codigo em C para arduino uno 
 ```c
 /* Inclui a biblioteca Keypad */
 #include  <Keypad.h>
@@ -56,3 +60,7 @@ void  loop() {
  }
 }
 ```
+- [Video de montagem](https://www.youtube.com/watch?v=FSXoBCX9hKY)
+- [PDF do material](https://aluno.escoladigital.pr.gov.br/sites/alunos/arquivos_restritos/files/documento/2021-07/aula15_teclado_matricial_membrana_m2.pdf)
+- [Sketch Teclado Membrana](https://sketchfab.com/3d-models/aula-15-teclado-matricial-de-membrana-5614e07ae5a240ff9e892802dd9f9571?authuser=0&hl=pt-BR)
+### Professor: Richardson Schawarski.
